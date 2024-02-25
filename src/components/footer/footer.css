@@ -1,0 +1,87 @@
+*{
+box-sizing: border-box;
+}
+.container2{
+          background: rgb(202, 212, 218);
+}
+
+.footer{
+          display: flex;
+          justify-content: space-between;
+          align-items:flex-start;
+          padding: 10px;
+}
+.section1 ul li{
+      list-style: none;  
+      padding: 5px;
+       
+}
+.contactDetails{
+      display: flex !important;
+      align-items: flex-start;
+}
+.address{
+      margin-top: -13px !important;
+margin-left: 20px;
+}
+.section1 ul li a:hover{
+          color: #888;
+          color: red;
+}
+.section1 ul{
+          padding: 0;
+          
+}
+
+
+
+.section2 ul li{
+          list-style: none;  
+          padding: 5px;
+         
+    }
+    .section2 ul{
+          padding: 0;
+}
+.section2 ul li a:hover{
+          color: #888;
+          color: red
+
+}
+    
+    .section3 ul li{
+          list-style: none;  
+          padding: 5px;
+           
+    }
+    .section3 ul{
+          padding: 0;
+}
+.section3 ul li a:hover{
+          color: #888;
+          color:red;
+}
+    
+    .section4 ul li{
+          list-style: none;  
+          padding: 5px;
+           
+    }
+    .section4 ul li a{
+          color: #888;
+}
+.telesection{
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+}
+.telePhno{
+      margin-left: 15px;
+}
+.socialicon{
+      display: flex;
+      justify-content: space-evenly;
+      color: red;
+}
+
+    

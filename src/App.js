@@ -12,6 +12,7 @@ function App() {
       <HeaderPage/>
       <JobstoriesPage/>
       {/* <FutureComapniesPage/> */}
+      
       <Footer/>
       
     </>
